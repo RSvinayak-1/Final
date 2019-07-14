@@ -1,0 +1,51 @@
+.main{
+    margin-top: 10px;
+}
+.mainhome{
+    height:200px;
+}
+
+.subGraph{
+    border:1px solid black;
+    height:200px;
+}
+
+.graph1{
+    height:30px;
+    padding: 5px;
+    font-size:20px;
+}
+
+.graph2{
+    height:170px;
+}
+.category1{
+    margin-top: 10px;
+}
+
+.table{
+    font-size: 16px;
+    width:100%;
+    text-align: center;
+    border: black;
+}
+
+th{
+ text-align: center;
+}
+
+td{
+    border:1px solid black;
+}
+
+
+.tableData{
+    height:290px;
+    border:1px solid black;
+}
+
+.scrollit {
+    overflow-y:scroll;
+    height:200px;
+    width:100%;
+}
