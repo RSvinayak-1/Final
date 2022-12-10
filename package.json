@@ -21,7 +21,7 @@
     "@angular/router": "~7.2.0",
     "body-parser": "^1.19.0",
     "core-js": "^2.5.4",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "mongodb": "^3.2.7",
     "mongojs": "^2.6.0",
     "ng2-google-charts": "^4.0.0",
